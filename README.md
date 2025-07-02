@@ -59,7 +59,7 @@ PRODIGY_WB_02/
 - Install TypeScript globally:
   ```bash
   npm install -g typescript
-git clone https://github.com/HENRY-AIFST/PRODIGY_WB_02.git
+git clone https://github.com/mehul/PRODIGY_WB_02.git
 cd PRODIGY_WB_02
 tsc          # Compile TypeScript
 
@@ -79,7 +79,7 @@ npx serve .
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-GitHub: @HENRY-AIFST
+GitHub: @Mehul
 Live App: Netlify Deployment
 
 ⭐ If you found this project helpful, consider starring it!
