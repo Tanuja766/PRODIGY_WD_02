@@ -1,4 +1,4 @@
-# ⏱️ PRODIGY_WB_02 - Stopwatch App
+# ⏱️ PRODIGY_WB_02 - Stopwatch Web_App
 
 [![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://spectacular-praline-6598a5.netlify.app/)
@@ -22,7 +22,7 @@ A modern stopwatch web application built with **TypeScript**, **HTML**, and **CS
 
 ## 📸 Screenshot
 
-<img src="https://raw.githubusercontent.com/HENRY-AIFST/PRODIGY_WB_02/main/dist/assets/Screenshot%20(49).png" alt="Stopwatch App UI" width="700"/>
+<img src="https://github.com/HENRY-AIFST/PRODIGY_WB_02/blob/main/dist/assets/stopwatch.png"alt="Stopwatch App UI" width="700"/>
 
 
 ---
