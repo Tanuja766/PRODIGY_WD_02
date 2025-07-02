@@ -22,7 +22,8 @@ A modern stopwatch web application built with **TypeScript**, **HTML**, and **CS
 
 ## 📸 Screenshot
 
-<img src="assets/stopwatch-screenshot.png" alt="Stopwatch App UI" width="700"/>
+<img src="https://raw.githubusercontent.com/HENRY-AIFST/PRODIGY_WB_02/main/dist/assets/Screenshot%20(49).png" alt="Stopwatch App UI" width="700"/>
+
 
 ---
 
