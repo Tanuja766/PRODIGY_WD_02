@@ -59,7 +59,7 @@ PRODIGY_WB_02/
 - Install TypeScript globally:
   ```bash
   npm install -g typescript
-git clone https://github.com/mehul/PRODIGY_WB_02.git
+git clone https://github.com/mehul/PRODIGY_WD_02.git
 cd PRODIGY_WB_02
 tsc          # Compile TypeScript
 
