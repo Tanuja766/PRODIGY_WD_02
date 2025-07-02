@@ -4,7 +4,7 @@
 [![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://spectacular-praline-6598a5.netlify.app/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
-A simple stopwatch web application built with **TypeScript**, **HTML**, and **CSS**. It features lap recording, reset functionality, and a responsive UI.
+A modern stopwatch web application built with **TypeScript**, **HTML**, and **CSS**. It supports lap tracking, animated buttons, and a responsive layout.
 
 > 🔗 **Live Demo:** [spectacular-praline-6598a5.netlify.app](https://spectacular-praline-6598a5.netlify.app/)
 
@@ -13,31 +13,30 @@ A simple stopwatch web application built with **TypeScript**, **HTML**, and **CS
 ## ✨ Features
 
 - ▶️ Start / ⏸️ Pause the timer
-- 🔁 Reset the stopwatch
-- 📋 Record lap times
-- 💻 Built with modular TypeScript
-- 📱 Fully responsive across devices
+- 🔁 Reset stopwatch
+- 📋 Lap recording support
+- 🎨 Clean and animated UI
+- 📱 Responsive design for all screen sizes
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> *(Add your own images in the `assets/` folder and update the links)*
-
-<img src="assets/stopwatch-ui.png" alt="Stopwatch UI" width="500" />
+<img src="assets/stopwatch-screenshot.png" alt="Stopwatch App UI" width="700"/>
 
 ---
 
 ## 🧰 Tech Stack
 
-- **TypeScript** – Static typing + OOP structure
-- **HTML5** – Markup layout
-- **CSS3** – Styling & responsiveness
-- **Netlify** – Hosting and continuous deployment
+- **TypeScript** – Strict typing for logic
+- **HTML5** – Semantic structure
+- **CSS3** – Styling and UI responsiveness
+- **Netlify** – Deployment platform
 
 ---
 
 ## 📂 Folder Structure
+
 
 PRODIGY_WB_02/
 ├── src/
