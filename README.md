@@ -63,7 +63,9 @@ git clone https://github.com/HENRY-AIFST/PRODIGY_WB_02.git
 cd PRODIGY_WB_02
 tsc          # Compile TypeScript
 npx serve .
+
 🧩 Future Enhancements
+
 ⏱ Save laps in localStorage
 
 🎨 Theme switcher (Light/Dark)
