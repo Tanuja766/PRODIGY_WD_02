@@ -79,7 +79,8 @@ npx serve .
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-GitHub: @mehul00000
+GitHub: @Tanuja766
+
 Live App: Netlify Deployment
 
 ⭐ If you found this project helpful, consider starring it!
